@@ -35,6 +35,7 @@ def debt_calc(income):
         print()
         debt_num = 0 
         print("Congratulations on being debt free!") 
+        debt_num = (income * 0.0)
         return debt_num
 
 # Description: Housing 
